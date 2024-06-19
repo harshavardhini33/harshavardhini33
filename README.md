@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harshavardhini Manickam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI-ML Engineer from India</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhini33&label=Profile%20views&color=0e75b6&style=flat" alt="harshavardhini33" /> </p>
