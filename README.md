@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhini33&label=Profile%20views&color=0e75b6&style=flat" alt="harshavardhini33" /> </p>
 
 
-- 🌱 I’m currently learning **React JS, Data Analytics**
+- 🌱 I’m currently learning **Tensorflow, Microsoft Azure**
 
-- 💬 Ask me about **Ui&Ux Designing, Social Media Marketing**
+- 💬 Ask me about **Data Science, Machine Learning and Deep Learning**
 
 - 📫 How to reach me **harshavardhini332004@gmail.com**
 
